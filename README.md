@@ -1,7 +1,7 @@
 # insequur
 A very simple cipher module. I wanted to learn a bit about the Caesar cipher and basic substitution ciphers, and this is the result.
 
-**Goes without saying, but this is not to be used for any serious security.**
+**Goes without saying, but this is not to be used for anything other than fun and learning.**
 
 Only supports the following characters:
 ```
